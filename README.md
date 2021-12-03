@@ -3,7 +3,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 Internship Category : Data Science And Business Analytics
 
-# Task 1 : Prediction using Supervised ML (Level - Beginner)
+# Task 1 : Prediction using Supervised ML 
 
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
